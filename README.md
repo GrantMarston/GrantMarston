@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/MattCSmith/MattCSmith/raw/master/assets/githubImage.png" alt="Profile header" />
+    <img src="https://cdn.discordapp.com/attachments/253017555302744066/852669479938293801/Hi_Im_Grant_Marston.jpg" alt="Profile header" />
     <div>
         <a href="https://www.linkedin.com/in/matt-c-smith/">
             <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
