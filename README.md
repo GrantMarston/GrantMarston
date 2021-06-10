@@ -8,8 +8,6 @@ Hi, I'm Grant 👋
 
 
 
-## Projects I Think Are Worth Checking Out!
-[![Github ReadMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <p align='center'>
