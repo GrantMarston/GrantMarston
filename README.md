@@ -4,11 +4,8 @@
 </div>
 <br/><br/>
 
-Hi, I'm Matt 👋
-A Community Manager and developer at [Zero To Mastery](https://zerotomastery.io/?utm_source=mcs_gh), helping more than 200,000 from all over the world learn to code, get hired and advance their career.
+Hi, I'm Grant 👋
 
-With a focus on JavaScript, Node and React, I build, deploy and maintain Fullstack applications for both companies and for fun!
-Feel free to connect with me via [Linkedin](https://www.linkedin.com/in/matt-c-smith/) or [Twitter](https://twitter/MattCSmith_)
 
 ---
 ## Coding & Opensource Statistics
